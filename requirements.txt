@@ -1,0 +1,6 @@
+base-url==2.1.0
+html==4.1.1
+metadata==3.1.1
+playwright==0.4.4
+playwright-snapshot==1.0
+xdist==3.5.0
